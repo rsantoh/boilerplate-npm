@@ -1,10 +1,13 @@
 {
 	"author": "Santiago Hidalgo Ramirez",
 	"description": "A project that does something awesome",
-	"keywords": [ "Lo que hace el proyecto", "Tienen que ser claras", "decribe" ],
+	"keywords": [ "freecodecamp", "Tienen que ser claras", "decribe" ],
 	"name": "fcc-learn-npm-package-json",
+	"license": "BSD",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
